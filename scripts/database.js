@@ -1,46 +1,52 @@
 const database = {
     fish: [
         {
+            image:
             species: "clownfish",
             name: "Bart",
             food: "invertebrates",
-            size: 3,
-            harvest: "Australia"
+            length: "3 inches",
+            location: "Australia"
         },
         {
+            image:
             species: "spotted eagle ray",
             name: "Donny",
             food: "clams, oysters, shrimp, octopus, squid and sea urchins",
-            size: 7,
-            harvest: "South Africa"
+            length: "7 inches",
+            location: "South Africa"
         },
         {
+            iamge:
             species: "clownfish",
             name: "Danny",
             food: "invertebrates",
-            size: 1,
-            harvest: "Australia"
+            length: "1 inch",
+            location: "Australia"
         },
         {
+            image:
             species: "royal gramma",
             name: "Dinny",
             food: "crustaceans",
-            size: 2,
-            harvest: "Australia"
+            length: "2 inches",
+            location: "Australia"
         },
         {
+            image:
             species: "clownfish",
             name: "Xero",
             food: "invertebrates",
-            size: 1,
-            harvest: "Australia"
+            length: "1 inch",
+            locatiom: "Australia"
         },
         {
+            image:
             species: "clownfish",
             name: "Nemo",
             food: "invertebrates",
-            size: 3,
-            harvest: "Australia"
+            length: "3 inches",
+            location: "Australia"
         }
     ]
 }
