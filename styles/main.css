@@ -1,0 +1,70 @@
+.fishImage {
+    width: 100px;
+}
+
+.harvestImage {
+    width: 100px;
+}
+
+body {
+    border-style: solid;
+    border-color: black;
+    display: flex;
+    align-items: stretch;
+}
+
+header {
+    font-size: 20px;
+    background-color: aqua;
+}
+
+.container-1{
+    width: 80%;
+    height: 175vh;
+}
+
+.container-2 {
+    background-color: aqua;
+}
+
+.subcontainer-1 {
+    border-style:double;
+    border-color: black;
+    font-size: 15px;
+} 
+.subcontainer-2{
+    display: flex;
+    flex-direction: column;
+}
+.fishList {
+    border-style: solid;
+    border-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    height: 50vh;
+    background-color: aquamarine;
+}
+
+.travelTips {
+    border-style: solid;
+    border-color: black;
+    flex-grow: 1;
+    height: 50vh;
+    background-color: aquamarine;
+}
+
+.harvestLocations {
+    border-style: solid;
+    border-color: black;
+    flex-grow: 0;
+    height: 60vh;
+    background-color: aquamarine;
+}
+
+.harvestImages {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}

@@ -1,7 +1,7 @@
 const database = {
     fish: [
         {
-            image:
+            image: "https://images.unsplash.com/photo-1524704796725-9fc3044a58b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8ZmlzaHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
             species: "clownfish",
             name: "Bart",
             food: "invertebrates",
@@ -9,15 +9,15 @@ const database = {
             location: "Australia"
         },
         {
-            image:
+            image: "https://images.unsplash.com/photo-1524704796725-9fc3044a58b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8ZmlzaHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
             species: "spotted eagle ray",
             name: "Donny",
-            food: "clams, oysters, shrimp, octopus, squid and sea urchins",
+            food: "clams",
             length: "7 inches",
             location: "South Africa"
         },
         {
-            iamge:
+            image: "https://images.unsplash.com/photo-1524704796725-9fc3044a58b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8ZmlzaHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
             species: "clownfish",
             name: "Danny",
             food: "invertebrates",
@@ -25,7 +25,7 @@ const database = {
             location: "Australia"
         },
         {
-            image:
+            image: "https://images.unsplash.com/photo-1524704796725-9fc3044a58b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8ZmlzaHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
             species: "royal gramma",
             name: "Dinny",
             food: "crustaceans",
@@ -33,7 +33,7 @@ const database = {
             location: "Australia"
         },
         {
-            image:
+            image: "https://images.unsplash.com/photo-1524704796725-9fc3044a58b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8ZmlzaHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
             species: "clownfish",
             name: "Xero",
             food: "invertebrates",
@@ -41,7 +41,7 @@ const database = {
             locatiom: "Australia"
         },
         {
-            image:
+            image: "https://images.unsplash.com/photo-1524704796725-9fc3044a58b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8ZmlzaHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
             species: "clownfish",
             name: "Nemo",
             food: "invertebrates",
